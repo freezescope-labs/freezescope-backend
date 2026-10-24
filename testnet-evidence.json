@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "network": "testnet",
+  "sourceAccount": "GC52JHWUQJ3KVCE4AEJWWNIJJITV4QXFGLBNL4DOIUPBKKAIE5Y7XFH4",
+  "transactions": [
+    {
+      "label": "Upload review specimen",
+      "hash": "8cfcb02f6dbf012b5a87d29322580857223ba2b1b8ab58289b6e0250625a2b98",
+      "status": "SUCCESS",
+      "ledger": 5368764,
+      "envelopeXdr": "AAAAAgAAAAC7pJ7UgnaqiJwBE2s1CUonXkLlMsLV8G5FHhUoCCdx+wEMVEQAUeu6AAAAAQAAAAEAAAAAAAAAAAAAAABq3PzBAAAAAAAAAAEAAAAAAAAAGAAAAAIAAASHAGFzbQEAAAABJwdgAn5+AX5gAX4BfmADfn5+AX5gAX8BfmACf38AYAABfmACfn4BfwIlBgF2AWcAAAFsAV8AAgFsATEAAAFhATAAAQFsATAAAAFiAWoAAAMHBgMEAQUGAQUDAQARBhECfwFBgIDAAAt/AEGKgMAACwctBQZtZW1vcnkCAA1fX2NvbnN0cnVjdG9yAAgEcmVhZAAJBXdyaXRlAAsBXwMBDAEBCqMEBpUBAgF/AX4jAEEQayIBJAACQCAAQQFxBEAgAUGFgMAAEAcMAQsgAUGAgMAAEAcLAkAgASgCAEUEQCABKQMIIQIjAEEQayIAJAAgACACNwMIIABBCGqtQiCGQgSEQoSAgIAQEAAhAiABQgA3AwAgASACNwMIIABBEGokACABKQMIIQIgASkDAFANAQsACyABQRBqJAAgAgvXAQIDfwF+IwBBEGsiAyQAA0ACfwJAAkACQCAEQQVHBEBBASABIARqLQAAIgJB3wBGDQQaIAJBMGtB/wFxQQpJDQIgAkHBAGtB/wFxQRpJDQMgAkE7ayACQeEAa0H/AXFBGkkNBBogAyACrUIIhkIBhDcDACABrUIghkIEhEKEgICA0AAQBSEFDAELIAMgBUIIhkIOhCIFNwIECyAAQgA3AwAgACAFNwMIIANBEGokAA8LIAJBLmsMAQsgAkE1awutQv8BgyAFQgaGhCEFIARBAWohBAwACwALHQAgAEL/AYNCzQBSBEAAC0EAEAYgAEICEAEaQgILNgEBfgJAQQEQBiIAQgEQCgR+IABCARACIgBC/wGDQgRSDQEgAEKAgICAcIMFQgALQgSEDwsACwsAIAAgARAEQgFRC1ABAX4CQAJAIABC/wGDQgRRBEBBABAGIgFCAhAKRQ0BIAFCAhACIgFC/wGDQs0AUQ0CCwALAAsgARADGkEBEAYgAEKEgICAcINCARABGkICCwsTAQBBgIDAAAsKT3duZXJWYWx1ZQAeEWNvbnRyYWN0ZW52bWV0YXYwAAAAAAAAAB0AAAAAAJMBDmNvbnRyYWN0bWV0YXYwAAAAAAAAAAVyc3ZlcgAAAAAAAAYxLjk3LjEAAAAAAAAAAAAIcnNzZGt2ZXIAAAAvMjkuMC4xI2UxNjcxYTBjYjU4ZDRiOGMwYmI4ZGUxMTVjYWYwODBjYTAxNjc2ZTgAAAAAAAAAABJyc3Nka19zcGVjX3NoYWtpbmcAAAAAAAEyAAAAAFMOY29udHJhY3RtZXRhdjAAAAAAAAAABmNsaXZlcgAAAAAALzI4LjEuMCNjMGY0ZDBkYTg5MWJiZjIxNGMwOGI4YzUwMzVhZTZkYjgwZTlhM2JkAACTAQ5jb250cmFjdHNwZWN2MAAAAAAAAAAAAAAABHJlYWQAAAAAAAAAAQAAAAQAAAAAAAAAAAAAAAV3cml0ZQAAAAAAAAEAAAAAAAAABXZhbHVlAAAAAAAABAAAAAAAAAAAAAAAAAAAAA1fX2NvbnN0cnVjdG9yAAAAAAAAAQAAAAAAAAAFb3duZXIAAAAAAAATAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAd224/7nAPGtzGgFvg/V78XGs2AgnALa2RUatSNBFlNigAfwqUAAAAAAAAE7AAAAAABDC00AAAAAQgncfsAAABA6TOzPRxtasDG4eefsSow39h2hVDNoKGfGCFN12rsY0S7nNEmJU2s5ZsxTf56SRE8Bl84bpJkjbcPosfT/DrOCQ==",
+      "resultXdr": "AAAAAADpJZwAAAAAAAAAAQAAAAAAAAAYAAAAAFspR61jd2RdpE02WfFwfvzWyT4uTTFV5V24BiY03kxhAAAAAA=="
+    },
+    {
+      "label": "Deploy review specimen",
+      "hash": "2a5945bb59e2c11272fa13b1aebb041fe35946ca34c12580373c8a0537ba7381",
+      "status": "SUCCESS",
+      "ledger": 5368766,
+      "envelopeXdr": "AAAAAgAAAAC7pJ7UgnaqiJwBE2s1CUonXkLlMsLV8G5FHhUoCCdx+wADXpMAUeu6AAAAAgAAAAEAAAAAAAAAAAAAAABq3PzMAAAAAAAAAAEAAAAAAAAAGAAAAAMAAAAAAAAAAAAAAAC7pJ7UgnaqiJwBE2s1CUonXkLlMsLV8G5FHhUoCCdx+9ESJ/ZsxdQ6H7AnfO9/VeF4n5JRYbKe0FIawwgvPsMfAAAAAHbbj/ucA8a3MaAW+D9XvxcazYCCcAtrZFRq1I0EWU2KAAAAAQAAABIAAAAAAAAAALukntSCdqqInAETazUJSideQuUywtXwbkUeFSgIJ3H7AAAAAQAAAAAAAAACAAAAAAAAAAAAAAAAu6Se1IJ2qoicARNrNQlKJ15C5TLC1fBuRR4VKAgncfvREif2bMXUOh+wJ3zvf1XheJ+SUWGyntBSGsMILz7DHwAAAAB224/7nAPGtzGgFvg/V78XGs2AgnALa2RUatSNBFlNigAAAAEAAAASAAAAAAAAAAC7pJ7UgnaqiJwBE2s1CUonXkLlMsLV8G5FHhUoCCdx+wAAAAAAAAABAAAAAAAAAAEAAAAHdtuP+5wDxrcxoBb4P1e/FxrNgIJwC2tkVGrUjQRZTYoAAAABAAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABQAAAABAAmyDAAAAAAAAAC0AAAAAAADN4MAAAABCCdx+wAAAEDl+W4ckiFFHKmKXrBWwxcQJtL0FZuD4PNXxQSd1bc2AjrwJkNI4d5tunIjLWd5VL0+wI9ZoEzPrmnvdhxYBiIM",
+      "resultXdr": "AAAAAAACvfEAAAAAAAAAAQAAAAAAAAAYAAAAAHUjHbB6ngs1pMfs5+k7bHaXUm6dY3CQqPJALoTigsJWAAAAAA=="
+    },
+    {
+      "label": "Initialize review value",
+      "hash": "72654e9435b6ecd749ca0274d79cdbfd56b2325b04386c1d7bebf648cb956212",
+      "status": "SUCCESS",
+      "ledger": 5368767,
+      "envelopeXdr": "AAAAAgAAAAC7pJ7UgnaqiJwBE2s1CUonXkLlMsLV8G5FHhUoCCdx+wAB3OUAUeu6AAAAAwAAAAEAAAAAAAAAAAAAAABq3PzSAAAAAAAAAAEAAAAAAAAAGAAAAAAAAAABOBPv2qd56QM65tz2FHiTDe7ZfW4O7tMZvOCkjIH/jZUAAAAFd3JpdGUAAAAAAAABAAAAAwAAAAEAAAABAAAAAAAAAAAAAAABOBPv2qd56QM65tz2FHiTDe7ZfW4O7tMZvOCkjIH/jZUAAAAFd3JpdGUAAAAAAAABAAAAAwAAAAEAAAAAAAAAAQAAAAAAAAACAAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABQAAAABAAAAB3bbj/ucA8a3MaAW+D9XvxcazYCCcAtrZFRq1I0EWU2KAAAAAQAAAAYAAAABOBPv2qd56QM65tz2FHiTDe7ZfW4O7tMZvOCkjIH/jZUAAAAQAAAAAQAAAAEAAAAPAAAABVZhbHVlAAAAAAAAAQAGNUYAAAAAAAAAXAAAAAAAAbXVAAAAAQgncfsAAABAYgJvYHr5B6h/XAVUJViqfjU+KMM1DPm+5qOMlqskd8yAOyGkFM6mlpAsqsWIhTCVPfx9nXuntoac095uSyD9AQ==",
+      "resultXdr": "AAAAAAABbl8AAAAAAAAAAQAAAAAAAAAYAAAAAMu8SHUN67hTUJOz3q+IrH9M/4dCVXaljeK6x1Ss20YWAAAAAA=="
+    }
+  ],
+  "wasmHash": "76db8ffb9c03c6b731a016f83f57bf171acd8082700b6b64546ad48d04594d8a",
+  "contractId": "CA4BH362U546SAZ243OPMFDYSMG65WL5NYHO5UYZXTQKJDEB76GZLIKX",
+  "snapshot": {
+    "schemaVersion": 1,
+    "network": "testnet",
+    "ledger": 5368767,
+    "protocolVersion": 29,
+    "frozenKeys": [],
+    "bypassHashes": [],
+    "capturedAt": "2026-10-24T18:43:44.375Z",
+    "provenance": "Live testnet RPC configuration snapshot",
+    "rpc": "https://soroban-testnet.stellar.org",
+    "evidence": [
+      {
+        "keyXdr": "AAAACAAAABE=",
+        "entryXdr": "AAAACAAAABEAAAAA",
+        "lastModifiedLedgerSeq": 2070825
+      },
+      {
+        "keyXdr": "AAAACAAAABM=",
+        "entryXdr": "AAAACAAAABMAAAAA",
+        "lastModifiedLedgerSeq": 2070825
+      }
+    ]
+  },
+  "envelopes": [
+    {
+      "id": "read",
+      "xdr": "AAAAAgAAAAC7pJ7UgnaqiJwBE2s1CUonXkLlMsLV8G5FHhUoCCdx+wAAQDYAUeu6AAAABAAAAAEAAAAAAAAAAAAAAABq3PzZAAAAAAAAAAEAAAAAAAAAGAAAAAAAAAABOBPv2qd56QM65tz2FHiTDe7ZfW4O7tMZvOCkjIH/jZUAAAAEcmVhZAAAAAAAAAAAAAAAAQAAAAAAAAADAAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABAAAAABAAAAAQAAAA8AAAAFVmFsdWUAAAAAAAABAAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABQAAAABAAAAB3bbj/ucA8a3MaAW+D9XvxcazYCCcAtrZFRq1I0EWU2KAAAAAAAF9JMAAAAAAAAAAAAAAAAAABkmAAAAAA==",
+      "kind": "unsigned-testnet-simulation",
+      "ledger": 5368767,
+      "transactionDataXdr": "AAAAAAAAAAMAAAAGAAAAATgT79qneekDOubc9hR4kw3u2X1uDu7TGbzgpIyB/42VAAAAEAAAAAEAAAABAAAADwAAAAVWYWx1ZQAAAAAAAAEAAAAGAAAAATgT79qneekDOubc9hR4kw3u2X1uDu7TGbzgpIyB/42VAAAAFAAAAAEAAAAHdtuP+5wDxrcxoBb4P1e/FxrNgIJwC2tkVGrUjQRZTYoAAAAAAAX0kwAAAAAAAAAAAAAAAAAAGSY="
+    },
+    {
+      "id": "write",
+      "xdr": "AAAAAgAAAAC7pJ7UgnaqiJwBE2s1CUonXkLlMsLV8G5FHhUoCCdx+wAARfMAUeu6AAAABAAAAAEAAAAAAAAAAAAAAABq3PzZAAAAAAAAAAEAAAAAAAAAGAAAAAAAAAABOBPv2qd56QM65tz2FHiTDe7ZfW4O7tMZvOCkjIH/jZUAAAAFd3JpdGUAAAAAAAABAAAAAwAAAAIAAAABAAAAAAAAAAAAAAABOBPv2qd56QM65tz2FHiTDe7ZfW4O7tMZvOCkjIH/jZUAAAAFd3JpdGUAAAAAAAABAAAAAwAAAAIAAAAAAAAAAQAAAAAAAAACAAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABQAAAABAAAAB3bbj/ucA8a3MaAW+D9XvxcazYCCcAtrZFRq1I0EWU2KAAAAAQAAAAYAAAABOBPv2qd56QM65tz2FHiTDe7ZfW4O7tMZvOCkjIH/jZUAAAAQAAAAAQAAAAEAAAAPAAAABVZhbHVlAAAAAAAAAQAGVYMAAAAAAAAAXAAAAAAAAB7jAAAAAA==",
+      "kind": "unsigned-testnet-simulation",
+      "ledger": 5368767,
+      "transactionDataXdr": "AAAAAAAAAAIAAAAGAAAAATgT79qneekDOubc9hR4kw3u2X1uDu7TGbzgpIyB/42VAAAAFAAAAAEAAAAHdtuP+5wDxrcxoBb4P1e/FxrNgIJwC2tkVGrUjQRZTYoAAAABAAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABAAAAABAAAAAQAAAA8AAAAFVmFsdWUAAAAAAAABAAZVgwAAAAAAAABcAAAAAAAAHuM="
+    }
+  ],
+  "labels": {
+    "AAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABAAAAABAAAAAQAAAA8AAAAFVmFsdWUAAAAAAAAB": "Persistent review value",
+    "AAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABQAAAAB": "Specimen instance",
+    "AAAAB3bbj/ucA8a3MaAW+D9XvxcazYCCcAtrZFRq1I0EWU2K": "Specimen executable"
+  },
+  "proposal": {
+    "freeze": [
+      "AAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABAAAAABAAAAAQAAAA8AAAAFVmFsdWUAAAAAAAAB"
+    ],
+    "unfreeze": [],
+    "addBypass": [],
+    "removeBypass": []
+  },
+  "comparisons": [
+    {
+      "id": "read",
+      "before": {
+        "schemaVersion": 1,
+        "network": "testnet",
+        "ledger": 5368767,
+        "contentHash": "ca288e436e4f26cb4b1e0227f8555f3c9f507d42c99b1743f70d43ee444d2090",
+        "isFeeBump": false,
+        "verdict": "NO_MODELED_HIT",
+        "bypass": false,
+        "accesses": [
+          {
+            "id": "936ee98f526adb8bb1aea44c219af3ff4e265f970a6b09ea04be6d9c4bb93a33",
+            "xdr": "AAAAAAAAAAC7pJ7UgnaqiJwBE2s1CUonXkLlMsLV8G5FHhUoCCdx+w==",
+            "type": "account",
+            "freezable": true,
+            "reason": "Transaction source account",
+            "frozen": false
+          },
+          {
+            "id": "936ee98f526adb8bb1aea44c219af3ff4e265f970a6b09ea04be6d9c4bb93a33",
+            "xdr": "AAAAAAAAAAC7pJ7UgnaqiJwBE2s1CUonXkLlMsLV8G5FHhUoCCdx+w==",
+            "type": "account",
+            "freezable": true,
+            "reason": "Operation 1 source account",
+            "frozen": false
+          },
+          {
+            "id": "2846431fb6a192edb90ee288c15f3d91bb629af686d5afaa514cb44189b6486c",
+            "xdr": "AAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABAAAAABAAAAAQAAAA8AAAAFVmFsdWUAAAAAAAAB",
+            "type": "contractData",
+            "freezable": true,
+            "reason": "Soroban read-only footprint",
+            "frozen": false
+          },
+          {
+            "id": "ac0d1f07685bc8e861bf6c83c38b7be3e110e2cd6dc717cbeef9cae59d4cbc39",
+            "xdr": "AAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABQAAAAB",
+            "type": "contractData",
+            "freezable": true,
+            "reason": "Soroban read-only footprint",
+            "frozen": false
+          },
+          {
+            "id": "fd5440311096e3fa130eceddbaa494547bf4f0379e0ebec00d0b33e73d4b1939",
+            "xdr": "AAAAB3bbj/ucA8a3MaAW+D9XvxcazYCCcAtrZFRq1I0EWU2K",
+            "type": "contractCode",
+            "freezable": true,
+            "reason": "Soroban read-only footprint",
+            "frozen": false
+          }
+        ],
+        "hits": [],
+        "unknown": [],
+        "applyTime": [],
+        "limitations": [
+          "Checks CAP-77 modeled accesses only, not signatures, balances, sequence, fees, or full transaction validity.",
+          "No modeled hit is not approval to submit.",
+          "DEX matching, sponsored-entry deletion and other apply-time effects are not simulated.",
+          "A bypass entry grants validation-stage access only; it does not sign or authorize the transaction."
+        ]
+      },
+      "after": {
+        "schemaVersion": 1,
+        "network": "testnet",
+        "ledger": 5368767,
+        "contentHash": "ca288e436e4f26cb4b1e0227f8555f3c9f507d42c99b1743f70d43ee444d2090",
+        "isFeeBump": false,
+        "verdict": "VALIDATION_BLOCKED",
+        "bypass": false,
+        "accesses": [
+          {
+            "id": "936ee98f526adb8bb1aea44c219af3ff4e265f970a6b09ea04be6d9c4bb93a33",
+            "xdr": "AAAAAAAAAAC7pJ7UgnaqiJwBE2s1CUonXkLlMsLV8G5FHhUoCCdx+w==",
+            "type": "account",
+            "freezable": true,
+            "reason": "Transaction source account",
+            "frozen": false
+          },
+          {
+            "id": "936ee98f526adb8bb1aea44c219af3ff4e265f970a6b09ea04be6d9c4bb93a33",
+            "xdr": "AAAAAAAAAAC7pJ7UgnaqiJwBE2s1CUonXkLlMsLV8G5FHhUoCCdx+w==",
+            "type": "account",
+            "freezable": true,
+            "reason": "Operation 1 source account",
+            "frozen": false
+          },
+          {
+            "id": "2846431fb6a192edb90ee288c15f3d91bb629af686d5afaa514cb44189b6486c",
+            "xdr": "AAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABAAAAABAAAAAQAAAA8AAAAFVmFsdWUAAAAAAAAB",
+            "type": "contractData",
+            "freezable": true,
+            "reason": "Soroban read-only footprint",
+            "frozen": true
+          },
+          {
+            "id": "ac0d1f07685bc8e861bf6c83c38b7be3e110e2cd6dc717cbeef9cae59d4cbc39",
+            "xdr": "AAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABQAAAAB",
+            "type": "contractData",
+            "freezable": true,
+            "reason": "Soroban read-only footprint",
+            "frozen": false
+          },
+          {
+            "id": "fd5440311096e3fa130eceddbaa494547bf4f0379e0ebec00d0b33e73d4b1939",
+            "xdr": "AAAAB3bbj/ucA8a3MaAW+D9XvxcazYCCcAtrZFRq1I0EWU2K",
+            "type": "contractCode",
+            "freezable": true,
+            "reason": "Soroban read-only footprint",
+            "frozen": false
+          }
+        ],
+        "hits": [
+          {
+            "id": "2846431fb6a192edb90ee288c15f3d91bb629af686d5afaa514cb44189b6486c",
+            "xdr": "AAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABAAAAABAAAAAQAAAA8AAAAFVmFsdWUAAAAAAAAB",
+            "type": "contractData",
+            "freezable": true,
+            "reason": "Soroban read-only footprint",
+            "frozen": true
+          }
+        ],
+        "unknown": [],
+        "applyTime": [],
+        "limitations": [
+          "Checks CAP-77 modeled accesses only, not signatures, balances, sequence, fees, or full transaction validity.",
+          "No modeled hit is not approval to submit.",
+          "DEX matching, sponsored-entry deletion and other apply-time effects are not simulated.",
+          "A bypass entry grants validation-stage access only; it does not sign or authorize the transaction."
+        ]
+      }
+    },
+    {
+      "id": "write",
+      "before": {
+        "schemaVersion": 1,
+        "network": "testnet",
+        "ledger": 5368767,
+        "contentHash": "c569d6f01feef67a016a6ce03485c4766831d4f36967988b265579bb7493f17d",
+        "isFeeBump": false,
+        "verdict": "NO_MODELED_HIT",
+        "bypass": false,
+        "accesses": [
+          {
+            "id": "936ee98f526adb8bb1aea44c219af3ff4e265f970a6b09ea04be6d9c4bb93a33",
+            "xdr": "AAAAAAAAAAC7pJ7UgnaqiJwBE2s1CUonXkLlMsLV8G5FHhUoCCdx+w==",
+            "type": "account",
+            "freezable": true,
+            "reason": "Transaction source account",
+            "frozen": false
+          },
+          {
+            "id": "936ee98f526adb8bb1aea44c219af3ff4e265f970a6b09ea04be6d9c4bb93a33",
+            "xdr": "AAAAAAAAAAC7pJ7UgnaqiJwBE2s1CUonXkLlMsLV8G5FHhUoCCdx+w==",
+            "type": "account",
+            "freezable": true,
+            "reason": "Operation 1 source account",
+            "frozen": false
+          },
+          {
+            "id": "ac0d1f07685bc8e861bf6c83c38b7be3e110e2cd6dc717cbeef9cae59d4cbc39",
+            "xdr": "AAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABQAAAAB",
+            "type": "contractData",
+            "freezable": true,
+            "reason": "Soroban read-only footprint",
+            "frozen": false
+          },
+          {
+            "id": "fd5440311096e3fa130eceddbaa494547bf4f0379e0ebec00d0b33e73d4b1939",
+            "xdr": "AAAAB3bbj/ucA8a3MaAW+D9XvxcazYCCcAtrZFRq1I0EWU2K",
+            "type": "contractCode",
+            "freezable": true,
+            "reason": "Soroban read-only footprint",
+            "frozen": false
+          },
+          {
+            "id": "2846431fb6a192edb90ee288c15f3d91bb629af686d5afaa514cb44189b6486c",
+            "xdr": "AAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABAAAAABAAAAAQAAAA8AAAAFVmFsdWUAAAAAAAAB",
+            "type": "contractData",
+            "freezable": true,
+            "reason": "Soroban read-write footprint",
+            "frozen": false
+          }
+        ],
+        "hits": [],
+        "unknown": [],
+        "applyTime": [],
+        "limitations": [
+          "Checks CAP-77 modeled accesses only, not signatures, balances, sequence, fees, or full transaction validity.",
+          "No modeled hit is not approval to submit.",
+          "DEX matching, sponsored-entry deletion and other apply-time effects are not simulated.",
+          "A bypass entry grants validation-stage access only; it does not sign or authorize the transaction."
+        ]
+      },
+      "after": {
+        "schemaVersion": 1,
+        "network": "testnet",
+        "ledger": 5368767,
+        "contentHash": "c569d6f01feef67a016a6ce03485c4766831d4f36967988b265579bb7493f17d",
+        "isFeeBump": false,
+        "verdict": "VALIDATION_BLOCKED",
+        "bypass": false,
+        "accesses": [
+          {
+            "id": "936ee98f526adb8bb1aea44c219af3ff4e265f970a6b09ea04be6d9c4bb93a33",
+            "xdr": "AAAAAAAAAAC7pJ7UgnaqiJwBE2s1CUonXkLlMsLV8G5FHhUoCCdx+w==",
+            "type": "account",
+            "freezable": true,
+            "reason": "Transaction source account",
+            "frozen": false
+          },
+          {
+            "id": "936ee98f526adb8bb1aea44c219af3ff4e265f970a6b09ea04be6d9c4bb93a33",
+            "xdr": "AAAAAAAAAAC7pJ7UgnaqiJwBE2s1CUonXkLlMsLV8G5FHhUoCCdx+w==",
+            "type": "account",
+            "freezable": true,
+            "reason": "Operation 1 source account",
+            "frozen": false
+          },
+          {
+            "id": "ac0d1f07685bc8e861bf6c83c38b7be3e110e2cd6dc717cbeef9cae59d4cbc39",
+            "xdr": "AAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABQAAAAB",
+            "type": "contractData",
+            "freezable": true,
+            "reason": "Soroban read-only footprint",
+            "frozen": false
+          },
+          {
+            "id": "fd5440311096e3fa130eceddbaa494547bf4f0379e0ebec00d0b33e73d4b1939",
+            "xdr": "AAAAB3bbj/ucA8a3MaAW+D9XvxcazYCCcAtrZFRq1I0EWU2K",
+            "type": "contractCode",
+            "freezable": true,
+            "reason": "Soroban read-only footprint",
+            "frozen": false
+          },
+          {
+            "id": "2846431fb6a192edb90ee288c15f3d91bb629af686d5afaa514cb44189b6486c",
+            "xdr": "AAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABAAAAABAAAAAQAAAA8AAAAFVmFsdWUAAAAAAAAB",
+            "type": "contractData",
+            "freezable": true,
+            "reason": "Soroban read-write footprint",
+            "frozen": true
+          }
+        ],
+        "hits": [
+          {
+            "id": "2846431fb6a192edb90ee288c15f3d91bb629af686d5afaa514cb44189b6486c",
+            "xdr": "AAAABgAAAAE4E+/ap3npAzrm3PYUeJMN7tl9bg7u0xm84KSMgf+NlQAAABAAAAABAAAAAQAAAA8AAAAFVmFsdWUAAAAAAAAB",
+            "type": "contractData",
+            "freezable": true,
+            "reason": "Soroban read-write footprint",
+            "frozen": true
+          }
+        ],
+        "unknown": [],
+        "applyTime": [],
+        "limitations": [
+          "Checks CAP-77 modeled accesses only, not signatures, balances, sequence, fees, or full transaction validity.",
+          "No modeled hit is not approval to submit.",
+          "DEX matching, sponsored-entry deletion and other apply-time effects are not simulated.",
+          "A bypass entry grants validation-stage access only; it does not sign or authorize the transaction."
+        ]
+      }
+    }
+  ],
+  "scope": "Three confirmed sequential specimen transactions, two independent unsigned simulations, and a live testnet configuration read. Freeze and bypass outcomes are local counterfactual calculations only; no validator configuration was changed.",
+  "verifiedAt": "2026-10-24T18:43:46.289Z"
+}
